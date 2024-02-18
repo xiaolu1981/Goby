@@ -1,0 +1,10 @@
+__tests__
+node_modules
+android/.gradle
+android/app/build
+android/app/google-services.json
+ios/build
+ios/Pods
+ios/Podfile.lock
+ios/GoogleService-Info.plist
+vendor
